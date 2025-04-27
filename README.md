@@ -9,7 +9,7 @@
 - 🌱 I'm currently learning **Node.js**, **React**, and **Machine Learning**.
 - 💬 Ask me about **JavaScript**, **Python**, **Mobile Apps**, or **Discord Bots**.
 - 💞️ I'm looking to collaborate on **Open Source projects** and **Tech Communities**.
-- 📫 How to reach me: **[Email](abautistaqu01@ucvvirtual.edu.pe)** | **[LinkedIn](https://www.linkedin.com/in/alvaro-andre-bautista-quicano-7746b7362/)**
+- 📫 How to reach me: **[Email](abautistaqu01@ucvvirtual.edu.pe)** | **[LinkedIn](https://www.linkedin.com/in/abautistaqu/)**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I love programming Discord bots, developing websites, and creating mobile apps!**
 
